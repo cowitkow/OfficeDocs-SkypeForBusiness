@@ -156,6 +156,10 @@ This article lists the known issues for Microsoft Teams, by feature area.
 |:-----|:-----|:-----|:-----|
 |Group mailboxes are not enabled for archival (extra storage) purposes  <br/> |In the Office 365 Security and Compliance Center, Global Admins cannot enable archival on Group mailboxes. They can do this on user mailboxes only.  <br/> |If the Group mailbox capacity is nearly full, please contact Microsoft Office Support to extend mailbox size.  <br/> |2/1/17  <br/> |
 
+|**Issue title**|**Behavior / Symptom**|**Known workaround**|**Discovery date**|
+|:-----|:-----|:-----|:-----|
+|Dictionary not available on desktop client in GCCH and DoD  <br/> |The Teams desktop client will not download or be able to utilize the dictionary file for spellcheck within the GCCH and DoD cloud environments. <br/> |There is no known work around.  <br/> |7/2/18  <br/> |
+
 ## Guest Access
 
 |**Issue title**|**Behavior / Symptom**|**Known workaround**|**Discovery date**|
